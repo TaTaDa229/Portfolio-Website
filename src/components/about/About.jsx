@@ -42,7 +42,7 @@ function About() {
             “My name is Dat Ta. I am looking forward to working in a
             professional, dynamic and challenging environment in order to
             improve knowledge and accumulate experiences. I want to make the best effort
-            to complete the assigned tasks andcontribute to personal career as
+            to complete the assigned tasks and contribute to personal career as
             well as the development of company. .”
           </p>
 

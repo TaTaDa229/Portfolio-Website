@@ -19,13 +19,13 @@ const data = [
     github: 'https://github.com/TaTaDa229/BlogWebsite',
     demo:'https://blog-website1.netlify.app/'
   },
-  {
-    id: 2,
-    image: IMG2,
-    title: 'Portfolio Website',
-    github: 'https://github.com/TaTaDa229/Portfolio-Website',
-    demo:'https://portfolio-website-nu-seven.vercel.app/'
-  },
+  // {
+  //   id: 2,
+  //   image: IMG2,
+  //   title: 'Portfolio Website',
+  //   github: 'https://github.com/TaTaDa229/Portfolio-Website',
+  //   demo:'https://portfolio-website-nu-seven.vercel.app/'
+  // },
   {
     id: 3,
     image: IMG3,
