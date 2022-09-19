@@ -19,16 +19,6 @@ function Footer() {
         <li><a href="#portfolio">Portfolio</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
-      
-      {/* <Header/>
-      <Nav/>
-      <About/>
-      <Experience/>
-      <Services/>
-      <Testimonials/>
-      <Portfolio/>
-      <Contact/>
-      <Footer/> */}
 
       <div className="footer__socials">
         <a href="https://www.linkedin.com/in/t%E1%BA%A1-th%C3%A0nh-%C4%91%E1%BA%A1t-841233102/" target="_blank"><BsLinkedin/></a>
