@@ -29,7 +29,7 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: 'Mucsic Player',
+    title: 'Music Player',
     github: 'https://github.com/TaTaDa229/MusicPlayer',
     demo:'https://tatada229.github.io/MusicPlayer'
   },
