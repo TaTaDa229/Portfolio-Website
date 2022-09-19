@@ -1,14 +1,14 @@
 import React from 'react'
 import {BsLinkedin} from 'react-icons/bs'
 import {FaGithub} from 'react-icons/fa'
-import {FiDribbble} from 'react-icons/fi'
+import {CgProfile} from 'react-icons/cg'
 
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-        <a href="https://linkedin.com" target="_blank"><BsLinkedin/></a>
-        <a href="https://github.com" target="_blank"><FaGithub/></a>
-        <a href="https://dribbble.com" target="_blank"><FiDribbble/></a>
+        <a href="https://www.linkedin.com/in/t%E1%BA%A1-th%C3%A0nh-%C4%91%E1%BA%A1t-841233102/" target="_blank"><BsLinkedin/></a>
+        <a href="https://github.com/TaTaDa229" target="_blank"><FaGithub/></a>
+        <a href="https://www.topcv.vn/p/ta-thanh-dat" target="_blank"><CgProfile/></a>
     </div>
   )
 }

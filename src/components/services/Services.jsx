@@ -5,111 +5,56 @@ import {BiCheck} from 'react-icons/bi'
 function Services() {
   return (
     <section id="services">
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>My Journey</h5>
+      <h2>Education & Work Experience</h2>
 
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Education</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
+              <p>MindX Technology School - Web Fullstack</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
+              <p>Banking Academy - Finance & Banking</p>
             </li>
           </ul>
         </article>
-        {/* END OF UI/UX */}
 
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Activities</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
+              <p>Microsoft Office Specialist Team of Banking Academy</p>
             </li>
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
+              <p>SvnhForum - The official Forum of Banking Academy</p>
             </li>
           </ul>
         </article>
-        {/* END OF DEVELOPMENT */}
 
         <article className="service">
           <div className="service__head">
-            <h3>Content Creation</h3>
+            <h3>Work Experience</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon"/>
-              <p>Decade in design</p>
+              <p>Asia Commercial Bank</p>
             </li>
           </ul>
         </article>
-        {/* END OF CONTENT CREATION */}
       </div>
     </section>
   )

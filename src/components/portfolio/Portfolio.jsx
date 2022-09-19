@@ -1,55 +1,79 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/portfolio1.png'
+import IMG2 from '../../assets/portfolio2.png'
+import IMG3 from '../../assets/portfolio3.png'
+import IMG4 from '../../assets/portfolio4.png'
 import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG6 from '../../assets/portfolio6.png'
+import IMG7 from '../../assets/portfolio7.png'
+import IMG8 from '../../assets/portfolio8.png'
+import IMG9 from '../../assets/portfolio9.png'
 
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Project demo',
-    github: 'https://github.com',
-    demo:'https://dribbble.com/tatada229'
+    title: 'Blog Website',
+    github: 'https://github.com/TaTaDa229/BlogWebsite',
+    demo:'https://blog-website1.netlify.app/'
   },
   {
     id: 2,
     image: IMG2,
-    title: 'Project demo',
-    github: 'https://github.com',
-    demo:'https://dribbble.com/tatada229'
+    title: 'Portfolio Website',
+    github: 'https://github.com/TaTaDa229/Portfolio-Website',
+    demo:'https://portfolio-website-nu-seven.vercel.app/'
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Project demo',
-    github: 'https://github.com',
-    demo:'https://dribbble.com/tatada229'
+    title: 'Mucsic Player',
+    github: 'https://github.com/TaTaDa229/MusicPlayer',
+    demo:'https://tatada229.github.io/MusicPlayer'
   },
   {
     id: 4,
     image: IMG4,
-    title: 'Project demo',
-    github: 'https://github.com',
-    demo:'https://dribbble.com/tatada229'
+    title: 'Calculator',
+    github: 'https://github.com/TaTaDa229/CalculatorJS',
+    demo:'https://tatada229.github.io/CalculatorJS/'
   },
   {
     id: 5,
     image: IMG5,
-    title: 'Project demo',
-    github: 'https://github.com',
-    demo:'https://dribbble.com/tatada229'
+    title: 'Quiz App',
+    github: 'https://github.com/TaTaDa229/QuizAppJS',
+    demo:'https://tatada229.github.io/QuizAppJS/'
   },
   {
     id: 6,
     image: IMG6,
-    title: 'Project demo',
-    github: 'https://github.com',
-    demo:'https://dribbble.com/tatada229'
+    title: 'To Do List',
+    github: 'https://github.com/TaTaDa229/TodolistJS',
+    demo:'https://tatada229.github.io/TodolistJS/'
+  },
+  {
+    id: 7,
+    image: IMG7,
+    title: 'Weather App',
+    github: 'https://github.com/TaTaDa229/Weather_app_JS',
+    demo:'https://tatada229.github.io/Weather_app_JS/'
+  },
+  {
+    id: 8,
+    image: IMG8,
+    title: 'Web The Band',
+    github: 'https://github.com/TaTaDa229/WebTheBand',
+    demo:'https://tatada229.github.io/WebTheBand/'
+  },
+  {
+    id: 9,
+    image: IMG9,
+    title: 'Shopee',
+    github: 'https://github.com/TaTaDa229/ShopeeWeb',
+    demo:'https://tatada229.github.io/ShopeeWeb/'
   }
 ]
 

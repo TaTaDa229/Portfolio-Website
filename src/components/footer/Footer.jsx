@@ -15,7 +15,7 @@ function Footer() {
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#testimonials">Testimonials</a></li>
+        {/* <li><a href="#testimonials">Testimonials</a></li> */}
         <li><a href="#contact">Contact</a></li>
       </ul>
 
@@ -26,7 +26,7 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; ThanhDat. All rights reserved.</small>
+        <small>&copy; DatTa. All rights reserved.</small>
       </div>
     </footer>
   )
