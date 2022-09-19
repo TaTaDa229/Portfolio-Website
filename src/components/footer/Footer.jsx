@@ -1,13 +1,15 @@
 import React from 'react'
 import './footer.css'
-import {FaFacebookF} from 'react-icons/fa'
+import {FaFacebookF, FaGithub} from 'react-icons/fa'
 import {FiInstagram} from 'react-icons/fi'
 import {IoLogoTwitter} from 'react-icons/io'
+import { BsLinkedin } from 'react-icons/bs'
+import { CgProfile } from 'react-icons/cg'
 
 function Footer() {
   return (
     <footer>
-      <a href="#" className="footer__logo">ThanhDat</a>
+      <a href="#" className="footer__logo">Dat Ta</a>
 
       <ul className='permalinks'>
         <li><a href="#">Home</a></li>
@@ -15,14 +17,14 @@ function Footer() {
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Portfolio</a></li>
-        {/* <li><a href="#testimonials">Testimonials</a></li> */}
+        <li><a href="#testimonials">Awarded</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="footer__socials">
-        <a href="https://facebook.com"><FaFacebookF/></a>
-        <a href="https://instagram.com"><FiInstagram/></a>
-        <a href="https://twitter.com"><IoLogoTwitter/></a>
+        <a href="https://www.linkedin.com/in/t%E1%BA%A1-th%C3%A0nh-%C4%91%E1%BA%A1t-841233102/" target="_blank"><BsLinkedin/></a>
+        <a href="https://github.com/TaTaDa229" target="_blank"><FaGithub/></a>
+        <a href="https://www.topcv.vn/p/ta-thanh-dat" target="_blank"><CgProfile/></a>
       </div>
 
       <div className="footer__copyright">
