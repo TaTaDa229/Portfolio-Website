@@ -34,16 +34,16 @@ function About() {
             <article className="about__card">
               <VscFolderLibrary className="about__icon" />
               <h5>Projects</h5>
-              <small>9 Completed</small>
+              <small>10 Completed</small>
             </article>
           </div>
 
           <p>
             “My name is Dat Ta. I am looking forward to working in a
             professional, dynamic and challenging environment in order to
-            improve knowledge and accumulate experiences. I want to make the best effort
-            to complete the assigned tasks and contribute to personal career as
-            well as the development of company. .”
+            improve knowledge and accumulate experiences. I want to make the
+            best effort to complete the assigned tasks and contribute to
+            personal career as well as the development of company. .”
           </p>
 
           <a href="#contact" className="btn btn-primary">

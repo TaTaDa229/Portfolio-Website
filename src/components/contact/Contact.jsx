@@ -26,8 +26,8 @@ function Contact() {
           console.log(error.text);
         }
       );
-    
-    e.target.reset()
+
+    e.target.reset();
   };
 
   return (
@@ -49,7 +49,7 @@ function Contact() {
             <RiMessengerLine contact__option-icon />
             <h4>Messenger</h4>
             <h5>Ta Thanh Dat</h5>
-            <a href="https://m.me/BanhBaoNhanThit229" target="_blank">
+            <a href="https://m.me/TaTaDa229" target="_blank">
               Send a message
             </a>
           </article>
