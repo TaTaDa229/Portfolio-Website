@@ -19,13 +19,14 @@ const data = [
     github: "https://github.com/TaTaDa229/MernChatApp",
     demo: "https://mern-chat-app-229.herokuapp.com/",
   },
-  {
-    id: 1,
-    image: IMG1,
-    title: "Blog Website",
-    github: "https://github.com/TaTaDa229/BlogWebsite",
-    demo: "https://blog-website1.netlify.app/",
-  },
+  // {
+  //   id: 1,
+  //   image: IMG1,
+  //   title: "Blog Website",
+  //   github: "https://github.com/TaTaDa229/BlogWebsite",
+  //   demo: "https://blog-website1.netlify.app/",
+  //ReactJS, Boostrap, Material UI, Redux, NodeJS, MongoDB, ExpressJS, JWT...
+  // },
   {
     id: 2,
     image: IMG2,
